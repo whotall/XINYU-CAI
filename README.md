@@ -1,4 +1,3 @@
-# XINYU-CAI
 # Hi, I'm XINYU-CAI 👋
 
 I am a graduate student in Cyberspace Security at **Shandong University**.
